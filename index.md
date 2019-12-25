@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+<html><title>Bluechai</title>
+  <body style="background-color:#3C8EE0;text-align:center">
 
-You can use the [editor on GitHub](https://github.com/thaixo/Bluechai/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<div style="width:800;height:800px;text-align:center;">
+     <img style="height:100%;border:0;" src="https://lh3.googleusercontent.com/8yzif0vLChKgVKjjbD-qAwkQW6m3CkZyAk2HycphxXKmIUl5xUOOi16omBr1to26xm-zBXiBQD_0QWVl5qaHMObVXlZ1sIyKd67TTYNn0MaA0ImVMJfhQDK93dnJJuofQn0xKlfi4vQ=w2000-h2000" />
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1>Impressum</h1>
+<h2>Angaben gem&auml;&szlig; &sect; 5 TMG:</h2>
+<p>Fluxias GmbH<br />Rolgenmoos 2<br />88263 Horgenzell<br />Deutschland</p>
+<h2>Postadresse</h2>
+<p>Fluxias GmbH
+  <br />z.H.v. Datenschutzbeauftragter<br />Rolgenmoos 2<br />88263 Horgenzell<br />Deutschland</p>
+<h2>Vertreten durch den Gesch&auml;ftsf&uuml;hrer:</h2>
+<p>Stefan Dorn</p>
+<h2>Kontakt:</h2>
+<p>Telefon: 0049-7525-5299998<br />Telefax: 0049-3222-3112837<br />E-Mail: hi &lt;at&gt; fluxias &lt;punkt&gt; com</p>
+<h2>Registereintrag:</h2>
+<p>Handelsregister:&nbsp;Amtsgericht Ulm<br />Registernummer: HRB733386</p>
+<h2>Umsatzsteuer-ID:</h2>
+<p>Umsatzsteuer-Identifikationsnummer gem&auml;&szlig; &sect;27 a Umsatzsteuergesetz:<br />DE815621409</p>
+<h2>Verantwortlich f&uuml;r den Inhalt nach &sect; 55 Abs. 2 RStV:</h2>
+<p>Stefan Dorn, zu laden &uuml;ber die Adresse des Betreibers</p>
+<h2>Streitschlichtung</h2>
+<p>Die Europ&auml;ische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) (Universalschlichtungsstelle) bereit: <a href="https://ec.europa.eu/consumers/odr" target="_blank" rel="noopener noreferrer">https://ec.europa.eu/consumers/odr</a>.<br /> Unsere E-Mail-Adresse finden Sie oben im Impressum.</p>
+<p>Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Universalschlichtungsstelle/Verbraucherschlichtungsstelle teilzunehmen.</p>
+<h3>Haftung f&uuml;r Inhalte</h3>
+<p>Als Diensteanbieter sind wir gem&auml;&szlig; &sect; 7 Abs.1 TMG f&uuml;r eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach &sect;&sect; 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, &uuml;bermittelte oder gespeicherte fremde Informationen zu &uuml;berwachen oder nach Umst&auml;nden zu forschen, die auf eine rechtswidrige T&auml;tigkeit hinweisen.</p>
+<p>Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unber&uuml;hrt. Eine diesbez&uuml;gliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung m&ouml;glich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.</p>
+<h3>Haftung f&uuml;r Links</h3>
+<p>Unser Angebot enth&auml;lt Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb k&ouml;nnen wir f&uuml;r diese fremden Inhalte auch keine Gew&auml;hr &uuml;bernehmen. F&uuml;r die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf m&ouml;gliche Rechtsverst&ouml;&szlig;e &uuml;berpr&uuml;ft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.</p>
+<p>Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.</p>
+<h3>Urheberrecht</h3>
+<p>Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielf&auml;ltigung, Bearbeitung, Verbreitung und jede Art der Verwertung au&szlig;erhalb der Grenzen des Urheberrechtes bed&uuml;rfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur f&uuml;r den privaten, nicht kommerziellen Gebrauch gestattet.</p>
+<p>Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.</p>
+<p>Quelle: <a href="https://www.e-recht24.de">e-recht24.de</a></p>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thaixo/Bluechai/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  </body>
+</html>
